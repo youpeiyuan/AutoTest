@@ -1,0 +1,32 @@
+[
+  {
+    "description":"这是没有参数的get请求",
+    "request":{
+      "uri":"/getdemo",
+      "method":"get"
+    },
+    "response":{
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "text":"这是一个没有参数的get请求"
+    }
+  },
+  {
+    "description":"这是有参数的get请求",
+    "request":{
+      "uri":"/getwithdemo",
+      "method":"get",
+      "queries":{
+        "name":"yangliqing",
+        "age":"18"
+      }
+    },
+    "response":{
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "text":"醴陵青年杨立青"
+    }
+  }
+]
