@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AutoTest" target="1.5" />
       <module name="Chapter5" target="1.5" />
       <module name="Chapter6" target="1.5" />
       <module name="Chapter8" target="1.5" />

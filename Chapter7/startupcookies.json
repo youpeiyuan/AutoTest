@@ -10,8 +10,7 @@
         "Content-Type":"text/html;charset=gbk"
       },
       "cookies":{
-        "login":"true",
-        "status":"200"
+        "login":"true"
       },
       "text":"恭喜你获取cookies成功"
     }
