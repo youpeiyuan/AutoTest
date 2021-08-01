@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="添加父工程的pom文件，回复父工程目录" />
+    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myGetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/hello/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myGetMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/hello/SampleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,9 +347,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627574937885" />
@@ -314,7 +369,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -324,42 +379,43 @@
       <recent name="F:\InterfaceAuto\AutoTest\Chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.testpostcookies.postcookies">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="F:/InterfaceAuto/AutoTest/Chapter6/src/main/resources/reportsuit.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter6" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/reportsuit.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Myhttpclient.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleController" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclientDemo.*" />
+          <option name="PATTERN" value="hello.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclientDemo" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclientDemo.Myhttpclient" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.SampleController" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -419,19 +475,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.F:/InterfaceAuto/AutoTest/Chapter6/src/main/resources/reportsuit.xml" />
-      <item itemvalue="TestNG.Myhttpclient.test1" />
       <item itemvalue="TestNG.cookiesDemo.test1" />
       <item itemvalue="TestNG.cookiesDemo.testGetWithCookies" />
       <item itemvalue="TestNG.testpostcookies.postcookies" />
+      <item itemvalue="Spring Boot.SampleController" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.SampleController" />
         <item itemvalue="TestNG.testpostcookies.postcookies" />
         <item itemvalue="TestNG.cookiesDemo.testGetWithCookies" />
         <item itemvalue="TestNG.cookiesDemo.test1" />
-        <item itemvalue="TestNG.Myhttpclient.test1" />
-        <item itemvalue="TestNG.F:/InterfaceAuto/AutoTest/Chapter6/src/main/resources/reportsuit.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +521,8 @@
       <workItem from="1627723929483" duration="283000" />
       <workItem from="1627726254664" duration="38000" />
       <workItem from="1627726349947" duration="59000" />
-      <workItem from="1627726658269" duration="5922000" />
+      <workItem from="1627726658269" duration="6054000" />
+      <workItem from="1627780030089" duration="8731000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter5">
       <created>1627208149026</created>
@@ -523,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627738775077</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add">
+      <created>1627738862912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627738862912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -648,6 +712,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -656,7 +721,8 @@
     <MESSAGE value="Chapter7" />
     <MESSAGE value="Chapter9--httpclientdemo" />
     <MESSAGE value="添加父工程的pom文件，回复父工程目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加父工程的pom文件，回复父工程目录" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
