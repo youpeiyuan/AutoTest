@@ -1,12 +1,12 @@
 package com.course.server;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 
 @RestController
@@ -36,5 +36,33 @@ public class myGetMethod {
             }
         }
         return "cookies error";
+    }
+
+
+    /**
+     * 开发需要携带参数才能访问的get请求
+     * 第一种实现方式：url key=value&key=value
+     * 模拟获取商品列表
+     */
+    //第一种方式，参数中添加requestparam方法
+    @RequestMapping(value = "/get/with/param",method = RequestMethod.GET)
+    public Map<String,Integer> getList(@RequestParam Integer start,
+                                       @RequestParam Integer end){
+        Map<String,Integer> myList = new HashMap<>();
+        myList.put("鸿星尔克篮球鞋",249);
+        myList.put("鸿星尔克运动服",239);
+        myList.put("鸿星尔克遮阳帽",99);
+        return myList;
+    }
+
+    //第二种方式，参数这种添加pathvariable方法
+    @RequestMapping(value = "/get/with/param/{start}/{end}")
+    public Map getList2(@PathVariable Integer start,
+                        @PathVariable Integer end){
+        Map<String,Integer> mylist = new HashMap<>();
+        mylist.put("鸿星尔克衬衫",198);
+        mylist.put("鸿星尔克休闲裤",159);
+        mylist.put("鸿星尔克袜子",5);
+        return mylist;
     }
 }

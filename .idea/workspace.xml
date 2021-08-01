@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add Chapter10">
+    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="cookiesgetmethod">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myGetMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myGetMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myGetMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myGetMethod.class" afterDir="false" />
     </list>
@@ -476,7 +489,7 @@
       <workItem from="1627726254664" duration="38000" />
       <workItem from="1627726349947" duration="59000" />
       <workItem from="1627726658269" duration="6054000" />
-      <workItem from="1627780030089" duration="11302000" />
+      <workItem from="1627780030089" duration="16004000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter5">
       <created>1627208149026</created>
@@ -548,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627805577876</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cookiesgetmethod">
+      <created>1627808324239</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627808324239</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -684,7 +704,8 @@
     <MESSAGE value="添加父工程的pom文件，回复父工程目录" />
     <MESSAGE value="add" />
     <MESSAGE value="add Chapter10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chapter10" />
+    <MESSAGE value="cookiesgetmethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="cookiesgetmethod" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
