@@ -2,10 +2,7 @@ package com.course.server;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
@@ -29,6 +26,26 @@ public class myPostMethod {
             return "恭喜你登录成功";
         }
         return "用户名或密码错误";
+    }
+
+    @RequestMapping(value = "/getuserlist",method = RequestMethod.POST)
+    @ApiOperation(value = "获取列表的post接口",httpMethod = "POST")
+    public String getuserlist(HttpServletRequest request,
+                            @RequestBody User u){
+        User user;
+        //获取cookies
+        Cookie[] cookies = request.getCookies();
+        //验证cookies是否合法
+        for (Cookie c:cookies){
+            if (c.getName().equals("login") && c.getValue().equals("true") && u.getUserName().equals("yangliqing")&&u.getPassWord().equals("123456")){
+                user = new User();
+                user.setName("xiaohundan");
+                user.setAge("20");
+                user.setSex("nan");
+                return user.toString();
+            }
+        }
+        return "参数错误";
     }
 
 }

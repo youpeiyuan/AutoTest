@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add swageer">
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myPostMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/config/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myPostMethod.class" afterDir="false" />
+    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add post">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myGetMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myGetMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myGetMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myGetMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myPostMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/myPostMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myPostMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/course/server/myPostMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +329,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -483,7 +485,9 @@
       <workItem from="1627827943719" duration="28000" />
       <workItem from="1627997828786" duration="30000" />
       <workItem from="1627997872300" duration="26000" />
-      <workItem from="1627997909545" duration="4950000" />
+      <workItem from="1627997909545" duration="4994000" />
+      <workItem from="1628004076945" duration="15000" />
+      <workItem from="1628087756302" duration="4855000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter5">
       <created>1627208149026</created>
@@ -569,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627827828932</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add post">
+      <created>1628004028907</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628004028907</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -707,7 +718,8 @@
     <MESSAGE value="add Chapter10" />
     <MESSAGE value="cookiesgetmethod" />
     <MESSAGE value="add swageer" />
-    <option name="LAST_COMMIT_MESSAGE" value="add swageer" />
+    <MESSAGE value="add post" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
