@@ -1,0 +1,19 @@
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:08:21.520][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:09:12.704][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:09:42.952][WARN ][http-nio-8080-exec-1][DriverDataSource.java:70] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:09:45.756][WARN ][http-nio-8080-exec-3][DriverDataSource.java:70] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:11:47.582][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:12:29.415][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:13:12.824][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:14:29.773][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:15:28.783][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:18:55.453][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:22:49.842][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:24:22.463][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:24:53.039][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:29:56.636][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:34:00.490][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 16:35:08.848][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 17:03:06.978][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 17:41:11.388][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[lf-1][SERVER_NAME_IS_UNDEFINED][2021-08-08 17:51:48.057][WARN ][main][Logger.java:44] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
