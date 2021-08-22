@@ -4,39 +4,67 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add lombottest">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/Chapter11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/controll/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/user_center/business.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/user_center/metrics.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/user_center/sysusercenter.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/user_center/usercenter.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/docker.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/trace.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/warn.log" afterDir="false" />
+    <list default="true" id="34e8ffc5-b383-4986-81eb-e519a7f7fa16" name="Default Changelist" comment="add mybatis">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_34_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/Chapter12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestngListenerReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/AddUserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/UpdateUserInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/TestConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/TestngListenerReports$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/TestngListenerReports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/AddUserCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserListCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/InterfaceName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/LoginCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/UpdateUserInfoCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/ConfigFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/DatabaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extented/exreports/TestngListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +97,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -368,7 +397,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (1)">
+  <component name="RunManager" selected="TestNG.F:/InterfaceAuto/AutoTest/Chapter12/src/main/resources/testng.xml">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -413,36 +442,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cookiesDemo.testGetWithCookies" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.cookiesdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.cookiesdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cookiesdemo.cookiesDemo" />
-      <option name="METHOD_NAME" value="testGetWithCookies" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="F:/InterfaceAuto/AutoTest/Chapter12/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testpostcookies.postcookies" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.cookiesdemo.*" />
+          <option name="PATTERN" value="com.course.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.cookiesdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cookiesdemo.testpostcookies" />
-      <option name="METHOD_NAME" value="postcookies" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -452,17 +472,17 @@
     <list>
       <item itemvalue="Spring Boot.SampleController" />
       <item itemvalue="Spring Boot.Application" />
-      <item itemvalue="TestNG.cookiesDemo.testGetWithCookies" />
-      <item itemvalue="TestNG.testpostcookies.postcookies" />
       <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.F:/InterfaceAuto/AutoTest/Chapter12/src/main/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.F:/InterfaceAuto/AutoTest/Chapter12/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="Spring Boot.Application (1)" />
         <item itemvalue="Spring Boot.Application" />
         <item itemvalue="Spring Boot.SampleController" />
-        <item itemvalue="TestNG.testpostcookies.postcookies" />
-        <item itemvalue="TestNG.cookiesDemo.testGetWithCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +528,14 @@
       <workItem from="1628257844055" duration="1652000" />
       <workItem from="1628339056992" duration="4022000" />
       <workItem from="1628382659421" duration="57000" />
-      <workItem from="1628382730201" duration="12570000" />
+      <workItem from="1628382730201" duration="13960000" />
+      <workItem from="1628519601276" duration="1226000" />
+      <workItem from="1628928488530" duration="145000" />
+      <workItem from="1628928646806" duration="1257000" />
+      <workItem from="1628991668234" duration="10893000" />
+      <workItem from="1629120712758" duration="5160000" />
+      <workItem from="1629294374882" duration="3830000" />
+      <workItem from="1629621233632" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter5">
       <created>1627208149026</created>
@@ -608,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628092783861</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add mybatis">
+      <created>1628416457884</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628416457884</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -748,7 +782,8 @@
     <MESSAGE value="add swageer" />
     <MESSAGE value="add post" />
     <MESSAGE value="add lombottest" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lombottest" />
+    <MESSAGE value="add mybatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mybatis" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
